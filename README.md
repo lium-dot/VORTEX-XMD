@@ -1,11 +1,11 @@
-# 🤖⚡ VORTEX-XMD — Ultimate WhatsApp Multi-Device Bot
+# 🤖⚡ Vortex-xmd 🤖⚡
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&height=90&lines=VORTEX-XMD;All-in-One+WhatsApp+Bot;Fast+•+Secure+•+Powerful;Built+for+Admins+%26+Developers" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/HansTz/VORTEX-XMD/blob/main/assets/bot_image.jpg" height="320" alt="VORTEX-XMD" />
+  <img src="https://github.com/Mrhanstz/VORTEX-XMD/blob/main/assets/bot_image.jpg" height="320" alt="VORTEX-XMD" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 ### 1️⃣ Fork Repository
 
 <p align="center">
-  <a href="https://github.com/HansTz/VORTEX-XMD/fork">
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD/fork">
     <img src="https://img.shields.io/badge/FORK%20REPOSITORY-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -108,7 +108,7 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 ### Install & Run
 
 ```bash
-git clone https://github.com/HansTz/VORTEX-XMD.git
+git clone https://github.com/Mrhanstz/VORTEX-XMD.git
 cd VORTEX-XMD
 npm install
 node index.js
