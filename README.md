@@ -1,9 +1,5 @@
 # 🤖 VORTEX-XMD 🤖
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&height=90&lines=VORTEX-XMD;All-in-One+WhatsApp+Bot;Fast+•+Secure+•+Powerful;Built+for+Admins+%26+Developers" />
-</p>
-
 <!-- Recent Commits GIF Animation -->
   <img src="https://files.catbox.moe/k3gfrv.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
 </p>
