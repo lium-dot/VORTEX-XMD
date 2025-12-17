@@ -1,4 +1,4 @@
-# 🤖⚡ Vortex-xmd 🤖⚡
+# 🤖 VORTEX-XMD 🤖
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&height=90&lines=VORTEX-XMD;All-in-One+WhatsApp+Bot;Fast+•+Secure+•+Powerful;Built+for+Admins+%26+Developers" />
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/mruniquehacker/VORTEX-XMD?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/mruniquehacker/VORTEX-XMD?style=for-the-badge" />
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/VORTEX-XMD?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Mrhanstz/VORTEX-XMD?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Mrhanstz/VORTEX-XMD?style=for-the-badge" />
+  <img src="https://img.shields.io/github/watchers/Mrhanstz/VORTEX-XMD?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mrhanstz?style=for-the-badge" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 ### 2️⃣ Get Pair Code (No QR Stress)
 
 <p align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+  <a href="https://-paircode.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-EASY%20METHOD-ff0055?style=for-the-badge" />
   </a>
 </p>
@@ -99,7 +99,7 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 
 ---
 
-## 🛠️ Local Installation (PC / VPS)
+## 🛠️ Local Installation (PC / VPS / TERMUX)
 
 ### Requirements
 - Node.js (v18+ recommended)
@@ -109,6 +109,9 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 
 ```bash
 git clone https://github.com/Mrhanstz/VORTEX-XMD.git
+
 cd VORTEX-XMD
+
 npm install
+
 node index.js
