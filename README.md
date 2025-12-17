@@ -93,7 +93,6 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 
 
 ### BOT-HOSTING COIN'S 10 FREE 🆓
-<p align="center">
 <a href="https://bot-hosting.net/?aff=1308000667230666802">
     <img src="https://img.shields.io/badge/BOT--HOSTING.NET-DEPLOY-0078E7?style=for-the-badge" />
 </a>
