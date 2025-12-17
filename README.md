@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 About VORTEX-XMD
+## 🔥 ABOUT VORTEX-XMD
 
 **VORTEX-XMD** is a powerful **WhatsApp Multi-Device Bot** built using the **Baileys** library.  
 It is designed for **group admins**, **developers**, and **automation experts** who need full control over WhatsApp groups with speed, security, and scalability.
@@ -79,20 +79,25 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 ### 3️⃣ Deploy on Panels
 
 <p align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
+  <a href="https://youtu.be/">
     <img src="https://img.shields.io/badge/DEPLOY%20TUTORIAL-YOUTUBE-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://bot-hosting.net/?aff=1308000667230666802">
-    <img src="https://img.shields.io/badge/BOT--HOSTING.NET-DEPLOY-0078E7?style=for-the-badge" />
-  </a>
-  <a href="https://dashboard.katabump.com/auth/login#f4bf37">
+
+###KATABUMP FREE 24/7
+<a href="https://dashboard.katabump.com/auth/login#f4bf37">
     <img src="https://img.shields.io/badge/KATABUMP-PANEL-6A5ACD?style=for-the-badge" />
   </a>
 </p>
 
+
+###BOT-HOSTING COIN'S 10 FREE
+<p align="center">
+  <a href="https://bot-hosting.net/?aff=1308000667230666802">
+    <img src="https://img.shields.io/badge/BOT--HOSTING.NET-DEPLOY-0078E7?style=for-the-badge" />
+  </a>
+  
 ---
 
 ## 🛠️ Local Installation (PC / VPS / TERMUX)
@@ -100,6 +105,7 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 ### Requirements
 - Node.js (v18+ recommended)
 - Git
+
 
 ### Install & Run
 
