@@ -85,18 +85,18 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 </p>
 
 
-###KATABUMP FREE 24/7
+### 🆓 KATABUMP FREE 24/7 🚀
 <a href="https://dashboard.katabump.com/auth/login#f4bf37">
     <img src="https://img.shields.io/badge/KATABUMP-PANEL-6A5ACD?style=for-the-badge" />
   </a>
 </p>
 
 
-###BOT-HOSTING COIN'S 10 FREE
+### BOT-HOSTING COIN'S 10 FREE 🆓
 <p align="center">
-  <a href="https://bot-hosting.net/?aff=1308000667230666802">
+<a href="https://bot-hosting.net/?aff=1308000667230666802">
     <img src="https://img.shields.io/badge/BOT--HOSTING.NET-DEPLOY-0078E7?style=for-the-badge" />
-  </a>
+</a>
   
 ---
 
