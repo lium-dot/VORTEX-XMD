@@ -67,7 +67,7 @@ It is designed for **group admins**, **developers**, and **automation experts** 
 ### 2️⃣ Get Pair Code (No QR Stress)
 
 <p align="center">
-  <a href="https://-paircode.onrender.com" target="_blank">
+  <a href="https://session-site-p855.onrender.com/pair" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-EASY%20METHOD-ff0055?style=for-the-badge" />
   </a>
 </p>
