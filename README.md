@@ -64,9 +64,6 @@ Dont forget to fork 🍴 & star 🌟 repo😇
   </a>
 </div>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{VORTEX-XMD}/count.svg" alt="Mrhanstz :: Visitor's Count"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/Mrhanstz/VORTEX-XMD">
