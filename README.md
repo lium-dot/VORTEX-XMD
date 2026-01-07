@@ -1,4 +1,6 @@
-# 🤖 VORTEX-XMD WhatsApp Bot
+<p align="center">
+  <h1 align="center">💫 Vᴏʀᴛᴇx xᴍᴅ 💫</h1>
+</p>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -6,98 +8,177 @@
   </a> 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/HansTz/VORTEX-XMD?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/HansTz/VORTEX-XMD?style=for-the-badge&color=blue" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/HansTz/VORTEX-XMD?style=for-the-badge&color=green" alt="License"/>
-  <img src="https://img.shields.io/badge/Version-2.0.0-red?style=for-the-badge" alt="Version"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Mrhanstz/followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/Mrhanstz?color=blue&style=flat-square">
+  </a>
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD/stargazers/">
+    <img title="Stars" src="https://img.shields.io/github/stars/Mrhanstz/VORTEX-XMD?color=blue&style=flat-square">
+  </a>
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD/network/members">
+    <img title="Forks" src="https://img.shields.io/github/forks/Mrhanstz/VORTEX-XMD?color=blue&style=flat-square">
+  </a>
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD/">
+    <img title="Size" src="https://img.shields.io/github/repo-size/Mrhanstz/VORTEX-XMD?style=flat-square&color=green">
+  </a>
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD/graphs/commit-activity">
+    <img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+  </a>&nbsp;&nbsp;
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Baileys-Library-orange?style=for-the-badge" alt="Baileys"/>
-  <img src="https://img.shields.io/badge/WhatsApp-Multi_Device-blue?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
-</div>
+<p align="center">
+  <strong>Current Bot Version ➜ 1.0.3</strong>
+</p>
+
+<pre>
+Dont forget to fork 🍴 & star 🌟 repo😇
+</pre>
+
+<p align="center">
+  <a href="https://github.com/Mrhanstz">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=VORTEX-XMD+MultiDevice;Developed+by+Mr-HansTz;Give+star+and+fork+this+Repo+bro+🌟" alt="Mrhanstz readme">
+  </a>
+</p>
 
 ---
 
-## 📦 One-Click Deployments
+  <!-- Recent Commits GIF Animation -->
+  <img src="https://files.catbox.moe/k3gfrv.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
+</p>
 
-### 🚀 Quick Deploy
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Mrhanstz">
+    <img title="Developer" src="https://img.shields.io/badge/Author-Mr%20MrhansTz0-397604.svg?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 <div align="center">
-  <a href="https://github.com/HansTz/VORTEX-XMD/fork">
-    <img src="https://img.shields.io/badge/FORK_REPO-100000?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repository"/>
+  <a href="https://whatsapp.com/channel/0029Vb4a985InlqSS0l3ro3c#N7Mti4kjHnOwhF8PLajt4KvJt_dNPPAeNjgLaszm3po">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp">
   </a>
 </div>
 
-### ☁️ Cloud Deployments
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{VORTEX-XMD}/count.svg" alt="Mrhanstz :: Visitor's Count"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD">
+    <img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VORTEX-XMD&label=VIEWS&style=flat-square&color=blue">
+</p>
 
-#### **HEROKU** (Recommended)
-[![Deploy on Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/HansTz/VORTEX-XMD)
-
-#### **RENDER**
-[![Deploy to Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy?repo=https://github.com/HansTz/VORTEX-XMD)
-
-#### **RAILWAY**
-[![Deploy on Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template?template=https://github.com/HansTz/VORTEX-XMD)
-
-#### **REPLIT**
-[![Run on Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/HansTz/VORTEX-XMD)
-
-#### **KOYEB**
-[![Deploy on Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=github.com/HansTz/VORTEX-XMD)
-
-#### **ZEET**
-[![Deploy on Zeet](https://img.shields.io/badge/Zeet-000000?style=for-the-badge&logo=zeet&logoColor=white)](https://zeet.co/new/deploy?repo=HansTz/VORTEX-XMD)
-
-</div>
-
-### 🖥️ Panel Deployments
-
-<div align="center">
-
-#### **BOT HOSTING**
-[![Bot Hosting](https://img.shields.io/badge/BOT_HOSTING-0078E7?style=for-the-badge&logo=server&logoColor=white)](https://bot-hosting.net/?aff=1068419752923508776)
-
-#### **KATABUMP**
-[![Katabump](https://img.shields.io/badge/KATABUMP-D6B7D6?style=for-the-badge&logo=server&logoColor=black)](https://dashboard.katabump.com/auth/login#f4bf37)
-
-#### **CYCLIC**
-[![Cyclic](https://img.shields.io/badge/CYCLIC-000000?style=for-the-badge&logo=cyclic&logoColor=white)](https://app.cyclic.sh/#/join/hanstz)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD">
+    <img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor">
+  </a>
+</p>
 
 ---
 
-## 🎯 Features
-
-### 🤖 **Bot Features**
-- ✅ **Multi-device Support** - Works with WhatsApp Multi-Device
-- ✅ **200+ Commands** - Extensive command library
-- ✅ **Group Management** - Mute, kick, ban, promote, demote
-- ✅ **Media Tools** - Sticker creation, image editing, video tools
-- ✅ **AI Features** - GPT, Gemini, DALL-E, Sora AI
-- ✅ **Games** - Tic-tac-toe, Hangman, Trivia, and more
-- ✅ **Downloaders** - YouTube, Instagram, TikTok, Spotify
-- ✅ **Anti-spam** - Anti-link, anti-tag, anti-badword, anti-call
-
-### 🛡️ **Security Features**
-- 🔒 **PM Blocker** - Block unauthorized private messages
-- 🚫 **Anti-Delete** - See deleted messages
-- 📵 **Anti-Call** - Auto-block unwanted calls
-- 🔗 **Anti-Link** - Auto-remove links from groups
-- 🏷️ **Anti-Tag** - Prevent mass tagging
-- ⚠️ **Warning System** - Warn and ban abusive users
-
-### 🎮 **Entertainment**
-- 🎭 **Fun Commands** - Memes, jokes, quotes, facts
-- 🎵 **Music** - Spotify, YouTube music download
-- 🎬 **Video** - TikTok, Instagram, YouTube downloads
-- 🖼️ **Image Tools** - Filters, effects, editing
-- 🎨 **Text Maker** - 20+ text effects and styles
-- 🕹️ **Mini Games** - Interactive group games
+<h3>1. Fork This Repository</h3>
+<p>
+  Start by forking this repository to your own GitHub account. Click the button below to fork:
+  <a href="https://github.com/Mrhanstz/VORTEX-XMD/fork">
+    <img title="VORTEX-XMD" src="https://img.shields.io/badge/FORK-VORTEX-XMDh?color=blue&style=for-the-badge&logo=stackshare">
+  </a>
+</p>
 
 ---
+
+<h3>2. Get Session ID</h3>
+<p>You will need a session ID to run the VORTEX-XMD. Click the button below to obtain your session ID. If there is any issue loading the site, try using a VPN:</p>
+
+<p><strong>1️⃣ Pair Code (Session ID)</strong></p>
+<a href='https://session-site-p855.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+<p><strong>2️⃣ Pair Code (Session ID)</strong></p>
+<a href='https://session-site-p855.onrender.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+<p><strong>3️⃣ QR Code (Session ID)</strong></p>
+<a href='https://session-site-p855.onrender.com/qr' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+---
+
+<h2 align="center">VORTEX Deployment Options</h2>
+
+---
+
+<h4 align="center">1.Heroku Safe 💯</h4>
+<p align="center">
+  <a href="https://vortex-hanstz.vercel.app">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku">
+  </a>
+</p>
+
+<h4 align="center">2.Talk Drove Free💯</h4>
+<p align="center">
+  <a href="https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=58">
+    <img src="https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white" alt="Deploy on Talk Drove">
+  </a>
+</p>
+
+<h4 align="center">3. Koyeb</h4>
+<p align="center">
+  <a href='https://app.koyeb.com/services/deploy?type=git&repository=Mrhanstz/VORTEX-XMD'>
+    <img alt='Koyeb Deploy' src='https://img.shields.io/badge/-Koyeb%20Deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/>
+  </a>
+</p>
+
+<h4 align="center">4. Railway</h4>
+<p align="center">
+  <a href='https://railway.app/new'>
+    <img alt='Railway Deploy' src='https://img.shields.io/badge/-Railway%20Deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/>
+  </a>
+</p>
+
+<h4 align="center">5. Render</h4>
+<p align="center">
+  <a href='https://dashboard.render.com/web/new'>
+    <img alt='Render Deploy' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/>
+  </a>
+</p>
+
+
+<h4 align="center">6. Replit</h4>
+<p align="center">
+  <a href='https://replit.com/~'>
+    <img alt='Replit Deploy' src='https://img.shields.io/badge/-Replit%20Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/>
+  </a>
+</p>
+
+
+---
+
+<h2 align="center"> Project Owners </h2>
+<p align="center">
+  TANK YOU FOR CHOSING VORTEX-XMD! 🇹🇿
+</p>
+
+---
+
+<h2 align="center"> ⚠️ Disclaimer ⚠️</h2>
+<p align="center">
+  Don't Copy Without Permission
+</p>
+
+<pre>Made By HansTz From Tanzania 🇹🇿</pre>
+
+---
+
+<p align="center">
+  <img src='https://i.imgur.com/LyHic3i.gif'/>
+</p>
