@@ -60,12 +60,9 @@
   ],
   "addons": [
     {
-      "plan": "heroku-redis:hobby-dev",
+      "plan": "heroku-redis:mini",
       "as": "REDIS"
     }
   ],
-  "stack": "heroku-22",
-  "scripts": {
-    "postdeploy": "npm install"
-  }
+  "stack": "heroku-22"
 }
