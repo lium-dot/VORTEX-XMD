@@ -17,9 +17,9 @@
   ],
   "website": "https://github.com/HansTz/VORTEX-XMD",
   "success_url": "/",
-  env": {
-  "PREFIX": {
-      "description": "SET YOUR PREFIX .,;"#;",
+  "env": {
+    "PREFIX": {
+      "description": "SET YOUR PREFIX .,;",
       "value": ".",
       "required": false
     },
