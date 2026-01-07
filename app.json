@@ -1,6 +1,6 @@
 {
   "name": "Vortex-Xmd",
-  "description": "This BOT was developed by HansTz.",
+  "description": "WhatsApp Bot developed by HansTz",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "",
   "repository": "https://github.com/ekitale/maths-project",
@@ -42,6 +42,15 @@
   "buildpacks": [
     {
       "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/CrazyPython/heroku-buildpack-imagemagick"
     }
   ]
 }
