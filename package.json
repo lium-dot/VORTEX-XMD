@@ -42,7 +42,7 @@
     "fs-extra": "^11.2.0",
     "gtts": "^0.2.1",
     "human-readable": "^0.2.1",
-    "jimp": "^1.6.0",
+    "jimp": "^0.16.13",
     "jsdom": "^25.0.1",
     "libphonenumber-js": "^1.11.18",
     "libsignal": "^2.0.1",
@@ -75,6 +75,5 @@
   "engines": {
     "node": ">=20.0.0",
     "npm": ">=10.0.0"
-  },
-  "packageManager": "npm@10.8.2"
+  }
 }
