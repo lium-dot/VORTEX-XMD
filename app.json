@@ -1,11 +1,22 @@
 {
-  "name": "Vortex-Xmd",
-  "description": "WhatsApp Bot developed by HansTz",
-  "keywords": ["bot", "node", "baileys", "whatsapp"],
+  "name": "Vortex-xmd WhatsApp Bot",
+  "description": "Advanced WhatsApp Bot with 200+ features for group management and automation",
+  "repository": "https://github.com/HansTz/VORTEX-XMD",
   "logo": "",
-  "repository": "https://github.com/ekitale/maths-project",
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "whatsapp-bot",
+    "baileys",
+    "nodejs",
+    "javascript",
+    "automation",
+    "group-management",
+    "vortex",
+    "xmd"
+  ],
+  "website": "https://github.com/HansTz/VORTEX-XMD",
   "success_url": "/",
-  "stack": "heroku-24",
   "env": {
     "PREFIX": {
       "description": "SET YOUR PREFIX .,;",
@@ -36,7 +47,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "basic"
+      "size": "free"
     }
   },
   "buildpacks": [
@@ -44,13 +55,17 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    },
-    {
-      "url": "https://github.com/CrazyPython/heroku-buildpack-imagemagick"
+      "url": "https://github.com/jontewks/puppeteer-heroku-buildpack"
     }
-  ]
+  ],
+  "addons": [
+    {
+      "plan": "heroku-redis:hobby-dev",
+      "as": "REDIS"
+    }
+  ],
+  "stack": "heroku-22",
+  "scripts": {
+    "postdeploy": "npm install"
+  }
 }
