@@ -113,10 +113,10 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 ---
 
-<div align="center">
-  <h2 align="center">Vortex Deployment Options</h2>
-  
-  <img src="https://readme-typing-svg.heroapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Vortex+Xmd+Deployment+options;All+deployment+bot+is+running+%F0%9F%92%A8" alt="Typing SVG" />
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Vortex+Deployment+Options;Vortex+Xmd+Deployment+options;All+deployment+bot+is+running+%F0%9F%92%A8" alt="Typing SVG" />
+  </a> 
 </div>
 
 <div align="center">
