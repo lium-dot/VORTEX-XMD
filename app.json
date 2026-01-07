@@ -1,6 +1,6 @@
 {
-  "name": "VORTEX-XMD WhatsApp Bot",
-  "description": "WhatsApp Bot created by Hans_Tz",
+  "name": "Vortex-xmd WhatsApp Bot",
+  "description": "Advanced WhatsApp Bot with 200+ features for group management and automation",
   "repository": "https://github.com/HansTz/VORTEX-XMD",
   "logo": "",
   "keywords": [
@@ -10,11 +10,14 @@
     "baileys",
     "nodejs",
     "javascript",
+    "automation",
+    "group-management",
     "vortex",
     "xmd"
   ],
+  "website": "https://github.com/HansTz/VORTEX-XMD",
   "success_url": "/",
-  "env": {
+  env": {
   "PREFIX": {
       "description": "SET YOUR PREFIX .,;"#;",
       "value": ".",
@@ -41,6 +44,12 @@
       "required": true
     }
   },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
@@ -49,11 +58,14 @@
       "url": "https://github.com/jontewks/puppeteer-heroku-buildpack"
     }
   ],
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "free"
+  "addons": [
+    {
+      "plan": "heroku-redis:hobby-dev",
+      "as": "REDIS"
     }
-  },
-  "stack": "heroku-22"
+  ],
+  "stack": "heroku-22",
+  "scripts": {
+    "postdeploy": "npm install"
+  }
 }
