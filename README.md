@@ -113,53 +113,61 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 ---
 
-<h2 align="center">VORTEX Deployment Options</h2>
-
----
-
-<h4 align="center">1.Heroku Safe 💯</h4>
-<p align="center">
-  <a href="https://vortex-hanstz.vercel.app">
-    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku">
-  </a>
-</p>
-
-<h4 align="center">2.Talk Drove Free💯</h4>
-<p align="center">
-  <a href="https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=58">
-    <img src="https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white" alt="Deploy on Talk Drove">
-  </a>
-</p>
-
-<h4 align="center">3. Koyeb</h4>
-<p align="center">
-  <a href='https://app.koyeb.com/services/deploy?type=git&repository=Mrhanstz/VORTEX-XMD'>
-    <img alt='Koyeb Deploy' src='https://img.shields.io/badge/-Koyeb%20Deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/>
-  </a>
-</p>
-
-<h4 align="center">4. Railway</h4>
-<p align="center">
-  <a href='https://railway.app/new'>
-    <img alt='Railway Deploy' src='https://img.shields.io/badge/-Railway%20Deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/>
-  </a>
-</p>
-
-<h4 align="center">5. Render</h4>
-<p align="center">
-  <a href='https://dashboard.render.com/web/new'>
-    <img alt='Render Deploy' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/>
-  </a>
-</p>
-
-
-<h4 align="center">6. Replit</h4>
-<p align="center">
-  <a href='https://replit.com/~'>
-    <img alt='Replit Deploy' src='https://img.shields.io/badge/-Replit%20Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/>
-  </a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <h4>KATABUMP</h4>
+        <a href='https://dashboard.katabump.com/auth/login#f4bf37'>
+          <img alt='Katabump' src='https://img.shields.io/badge/-Katabump-000000?style=for-the-badge&logoColor=white' width="200"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <h4>BOT HOSTING</h4>
+        <a href='https://bot-hosting.net/?aff=1308000667230666802'>
+          <img alt='Bot-Hosting' src='https://img.shields.io/badge/-Bot_Hosting-5865F2?style=for-the-badge&logo=discord&logoColor=white' width="200"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <h4>RENDER</h4>
+        <a href='https://dashboard.render.com/web/new'>
+          <img alt='Render Deploy' src='https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render&logoColor=white' width="200"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <h4>RAILWAY</h4>
+        <a href='https://railway.com?referralCode=z6jQtt'>
+          <img alt='Railway' src='https://img.shields.io/badge/-Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white' width="200"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <h4>REPLIT</h4>
+        <a href='https://replit.com'>
+          <img alt='Replit' src='https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white' width="200"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <h4>OPTIKLINK</h4>
+        <a href='https://optiklink.com'>
+          <img alt='Optiklink' src='https://custom-icon-badges.demolab.com/badge/-Optiklink-000000?style=for-the-badge&logo=link&logoColor=white' width="200"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <!-- Empty cell for future services -->
+      </td>
+      <td align="center" width="200">
+        <!-- Empty cell for future services -->
+      </td>
+      <td align="center" width="200">
+        <!-- Empty cell for future services -->
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
