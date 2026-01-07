@@ -1,0 +1,59 @@
+{
+  "name": "VORTEX-XMD WhatsApp Bot",
+  "description": "WhatsApp Bot created by Hans_Tz",
+  "repository": "https://github.com/HansTz/VORTEX-XMD",
+  "logo": "",
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "whatsapp-bot",
+    "baileys",
+    "nodejs",
+    "javascript",
+    "vortex",
+    "xmd"
+  ],
+  "success_url": "/",
+  "env": {
+  "PREFIX": {
+      "description": "SET YOUR PREFIX .,;"#;",
+      "value": ".",
+      "required": false
+    },
+    "SESSION_ID": {
+      "description": "Mega.nz session file ID (Format: HansTz&YOUR_FILE_ID)",
+      "value": "",
+      "required": false
+    },
+    "BOT_OWNER": {
+      "description": "Bot owner name",
+      "value": "Hans_Tz",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner WhatsApp number (without +)",
+      "value": "255760774888",
+      "required": true
+    },
+    "COMMAND_MODE": {
+      "description": "Command mode (public or private)",
+      "value": "private",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jontewks/puppeteer-heroku-buildpack"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "heroku-22"
+}
