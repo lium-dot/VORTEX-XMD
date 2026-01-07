@@ -1,118 +1,103 @@
-# 🤖 VORTEX-XMD
+# 🤖 VORTEX-XMD WhatsApp Bot
 
-<!-- Recent Commits GIF Animation -->
-  <img src="https://files.catbox.moe/k3gfrv.gif" alt="GitHub Activity Animation" width="800" style="border-radius: 10px;">
-</p>
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=VORTEX-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Hans_Tz" alt="Typing SVG" />
+  </a> 
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Mrhanstz/VORTEX-XMD?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Mrhanstz/VORTEX-XMD?style=for-the-badge" />
-  <img src="https://img.shields.io/github/watchers/Mrhanstz/VORTEX-XMD?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Mrhanstz?style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/HansTz/VORTEX-XMD?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/HansTz/VORTEX-XMD?style=for-the-badge&color=blue" alt="Forks"/>
+  <img src="https://img.shields.io/github/license/HansTz/VORTEX-XMD?style=for-the-badge&color=green" alt="License"/>
+  <img src="https://img.shields.io/badge/Version-2.0.0-red?style=for-the-badge" alt="Version"/>
+</div>
 
----
-
-## 🔥 ABOUT VORTEX-XMD
-
-**VORTEX-XMD** is a powerful **WhatsApp Multi-Device Bot** built using the **Baileys** library.  
-It is designed for **group admins**, **developers**, and **automation experts** who need full control over WhatsApp groups with speed, security, and scalability.
-
-> ⚙️ Lightweight • 🛡️ Admin-Safe • 🚀 Easy to Deploy • 📱 Multi-Device Ready
-
----
-
-## ✨ Features (All-in-One)
-
-### 👥 Group Management
-- Tag all members (`.tagall`)
-- Mute / Unmute groups
-- Promote / Demote members
-- Remove members
-- Admin-only command protection
-
-### 🛡️ Security & Moderation
-- Anti-Link protection
-- Anti-Spam system
-- Warn system with limits
-- Admin-restricted features
-
-### 🎮 Fun & Utilities
-- Games (Tic-Tac-Toe & more)
-- Text-to-Speech (`.tts`)
-- Sticker maker
-- Media utilities
-
-### ⚙️ Core System
-- Multi-Device support
-- Fast response
-- Stable Baileys base
-- Easy customization
-- Node.js environment
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Baileys-Library-orange?style=for-the-badge" alt="Baileys"/>
+  <img src="https://img.shields.io/badge/WhatsApp-Multi_Device-blue?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
+</div>
 
 ---
 
-## 🚀 Deployment (All Methods)
+## 📦 One-Click Deployments
 
-### 1️⃣ Fork Repository
+### 🚀 Quick Deploy
 
-<p align="center">
-  <a href="https://github.com/Mrhanstz/VORTEX-XMD/fork">
-    <img src="https://img.shields.io/badge/FORK%20REPOSITORY-000000?style=for-the-badge&logo=github" />
+<div align="center">
+  <a href="https://github.com/HansTz/VORTEX-XMD/fork">
+    <img src="https://img.shields.io/badge/FORK_REPO-100000?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repository"/>
   </a>
-</p>
+</div>
+
+### ☁️ Cloud Deployments
+
+<div align="center">
+
+#### **HEROKU** (Recommended)
+[![Deploy on Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/HansTz/VORTEX-XMD)
+
+#### **RENDER**
+[![Deploy to Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy?repo=https://github.com/HansTz/VORTEX-XMD)
+
+#### **RAILWAY**
+[![Deploy on Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template?template=https://github.com/HansTz/VORTEX-XMD)
+
+#### **REPLIT**
+[![Run on Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/HansTz/VORTEX-XMD)
+
+#### **KOYEB**
+[![Deploy on Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy?type=git&repository=github.com/HansTz/VORTEX-XMD)
+
+#### **ZEET**
+[![Deploy on Zeet](https://img.shields.io/badge/Zeet-000000?style=for-the-badge&logo=zeet&logoColor=white)](https://zeet.co/new/deploy?repo=HansTz/VORTEX-XMD)
+
+</div>
+
+### 🖥️ Panel Deployments
+
+<div align="center">
+
+#### **BOT HOSTING**
+[![Bot Hosting](https://img.shields.io/badge/BOT_HOSTING-0078E7?style=for-the-badge&logo=server&logoColor=white)](https://bot-hosting.net/?aff=1068419752923508776)
+
+#### **KATABUMP**
+[![Katabump](https://img.shields.io/badge/KATABUMP-D6B7D6?style=for-the-badge&logo=server&logoColor=black)](https://dashboard.katabump.com/auth/login#f4bf37)
+
+#### **CYCLIC**
+[![Cyclic](https://img.shields.io/badge/CYCLIC-000000?style=for-the-badge&logo=cyclic&logoColor=white)](https://app.cyclic.sh/#/join/hanstz)
+
+</div>
 
 ---
 
-### 2️⃣ Get Pair Code (No QR Stress)
+## 🎯 Features
 
-<p align="center">
-  <a href="https://session-site-p855.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-EASY%20METHOD-ff0055?style=for-the-badge" />
-  </a>
-</p>
+### 🤖 **Bot Features**
+- ✅ **Multi-device Support** - Works with WhatsApp Multi-Device
+- ✅ **200+ Commands** - Extensive command library
+- ✅ **Group Management** - Mute, kick, ban, promote, demote
+- ✅ **Media Tools** - Sticker creation, image editing, video tools
+- ✅ **AI Features** - GPT, Gemini, DALL-E, Sora AI
+- ✅ **Games** - Tic-tac-toe, Hangman, Trivia, and more
+- ✅ **Downloaders** - YouTube, Instagram, TikTok, Spotify
+- ✅ **Anti-spam** - Anti-link, anti-tag, anti-badword, anti-call
 
-📌 After pairing, upload **`creds.json`** into the `session` folder.
+### 🛡️ **Security Features**
+- 🔒 **PM Blocker** - Block unauthorized private messages
+- 🚫 **Anti-Delete** - See deleted messages
+- 📵 **Anti-Call** - Auto-block unwanted calls
+- 🔗 **Anti-Link** - Auto-remove links from groups
+- 🏷️ **Anti-Tag** - Prevent mass tagging
+- ⚠️ **Warning System** - Warn and ban abusive users
+
+### 🎮 **Entertainment**
+- 🎭 **Fun Commands** - Memes, jokes, quotes, facts
+- 🎵 **Music** - Spotify, YouTube music download
+- 🎬 **Video** - TikTok, Instagram, YouTube downloads
+- 🖼️ **Image Tools** - Filters, effects, editing
+- 🎨 **Text Maker** - 20+ text effects and styles
+- 🕹️ **Mini Games** - Interactive group games
 
 ---
-
-### 3️⃣ Deploy on Panels
-
-<p align="center">
-  <a href="https://youtu.be/">
-    <img src="https://img.shields.io/badge/DEPLOY%20TUTORIAL-YOUTUBE-red?style=for-the-badge&logo=youtube" />
-  </a>
-</p>
-
-
-### 🆓 KATABUMP FREE 24/7 🚀
-<a href="https://dashboard.katabump.com/auth/login#f4bf37">
-    <img src="https://img.shields.io/badge/KATABUMP-PANEL-6A5ACD?style=for-the-badge" />
-  </a>
-</p>
-
-
-### BOT-HOSTING COIN'S 10 FREE 🆓
-<a href="https://bot-hosting.net/?aff=1308000667230666802">
-    <img src="https://img.shields.io/badge/BOT--HOSTING.NET-DEPLOY-0078E7?style=for-the-badge" />
-</a>
-  
----
-
-## 🛠️ Local Installation (PC / VPS / TERMUX)
-
-### Requirements
-- Node.js (v18+ recommended)
-- Git
-
-
-### Install & Run
-
-```bash
-git clone https://github.com/Mrhanstz/VORTEX-XMD.git
-
-cd VORTEX-XMD
-
-npm install
-
-node index.js
