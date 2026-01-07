@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <strong>Current Bot Version ➜ 1.0.3</strong>
+  <strong>Current Bot Version ➜ 2.0.0</strong>
 </p>
 
 <pre>
