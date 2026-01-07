@@ -42,7 +42,7 @@
     "fs-extra": "^11.2.0",
     "gtts": "^0.2.1",
     "human-readable": "^0.2.1",
-    "jimp": "^0.16.13",
+    "jimp": "latest",
     "jsdom": "^25.0.1",
     "libphonenumber-js": "^1.11.18",
     "libsignal": "^2.0.1",
