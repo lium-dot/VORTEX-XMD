@@ -64,6 +64,9 @@ Dont forget to fork 🍴 & star 🌟 repo😇
   </a>
 </div>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{VORTEX-XMD}/count.svg" alt="Mrhanstz :: Visitor's Count"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Mrhanstz/VORTEX-XMD">
@@ -110,15 +113,19 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 ---
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Vortex+Deployment+Options;Vortex+Xmd+Deployment+options;All+deployment+bot+is+running+%F0%9F%92%A8" alt="Typing SVG" />
-  </a> 
-</div>
+<h2 align="center">VORTEX Deployment Options</h2>
+
+---
 
 <div align="center">
   <table>
     <tr>
+      <td align="center" width="200">
+        <h4>HEROKU</h4>
+        <a href='https://heroku.com/deploy'>
+          <img alt='Heroku' src='https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' width="200"/>
+        </a>
+      </td>
       <td align="center" width="200">
         <h4>KATABUMP</h4>
         <a href='https://dashboard.katabump.com/auth/login#f4bf37'>
@@ -131,14 +138,14 @@ Dont forget to fork 🍴 & star 🌟 repo😇
           <img alt='Bot-Hosting' src='https://img.shields.io/badge/-Bot_Hosting-5865F2?style=for-the-badge&logo=discord&logoColor=white' width="200"/>
         </a>
       </td>
-      <td align="center" width="200">
-        <h4>RENDER</h4>
-        <a href='https://dashboard.render.com/web/new'>
-          <img alt='Render Deploy' src='https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render&logoColor=white' width="200"/>
-        </a>
-      </td>
     </tr>
     <tr>
+      <td align="center" width="200">
+        <h4>OPTIKLINK</h4>
+        <a href='https://optiklink.com'>
+          <img alt='Optiklink' src='https://custom-icon-badges.demolab.com/badge/-Optiklink-000000?style=for-the-badge&logo=link&logoColor=white' width="200"/>
+        </a>
+      </td>
       <td align="center" width="200">
         <h4>RAILWAY</h4>
         <a href='https://railway.com?referralCode=z6jQtt'>
@@ -151,16 +158,13 @@ Dont forget to fork 🍴 & star 🌟 repo😇
           <img alt='Replit' src='https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white' width="200"/>
         </a>
       </td>
-      <td align="center" width="200">
-        <h4>OPTIKLINK</h4>
-        <a href='https://optiklink.com'>
-          <img alt='Optiklink' src='https://custom-icon-badges.demolab.com/badge/-Optiklink-000000?style=for-the-badge&logo=link&logoColor=white' width="200"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td align="center" width="200">
-        <!-- Empty cell for future services -->
+        <h4>RENDER</h4>
+        <a href='https://dashboard.render.com/web/new'>
+          <img alt='Render' src='https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render&logoColor=white' width="200"/>
+        </a>
       </td>
       <td align="center" width="200">
         <!-- Empty cell for future services -->
