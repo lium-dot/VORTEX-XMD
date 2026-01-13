@@ -122,7 +122,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
     <tr>
       <td align="center" width="200">
         <h4>HEROKU</h4>
-        <a href='https://heroku.com/deploy'>
+        <a href='https://vortex-hanstz.vercel.app'>
           <img alt='Heroku' src='https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' width="200"/>
         </a>
       </td>
