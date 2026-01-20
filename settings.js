@@ -1,14 +1,14 @@
 const settings = {
 
-SESSION_ID: process.env.SESSION_ID || '',
+SESSION_ID: process.env.SESSION_ID || 'HansTz&2ItlySZC#r4vi8K_3mQYeFEv3v5TZQ62PGq1IZt4BpSKUgdMzQIg',
   
 botName: process.env.BOT_NAME || "Hans_Tz",
   
-botOwner: process.env.BOT_OWNER || 'Hans_Tz',
+botOwner: process.env.BOT_OWNER || 'G̸E̸N̸Z̸K̸E̸N̸Y̸A̸',
 
 Botprefix: process.env.PREFIX || '.',
   
-ownerNumber: process.env.OWNER_NUMBER || '255760774888',
+ownerNumber: process.env.OWNER_NUMBER || '254758443111',
   
 commandMode: process.env.COMMAND_MODE || "private",
    
