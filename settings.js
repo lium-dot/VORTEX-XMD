@@ -1,8 +1,8 @@
 const settings = {
 
-SESSION_ID: process.env.SESSION_ID || 'HansTz&2ItlySZC#r4vi8K_3mQYeFEv3v5TZQ62PGq1IZt4BpSKUgdMzQIg',
+SESSION_ID: process.env.SESSION_ID || 'HansTz&idE0mRAD#WSK4l_RClxeO4zJfM95r3tjUrjUE4iEHXm-4D_1Qx6w',
   
-botName: process.env.BOT_NAME || "Hans_Tz",
+botName: process.env.BOT_NAME || "ŦᎾṖ SĤᎾŦƐŔ",
   
 botOwner: process.env.BOT_OWNER || 'G̸E̸N̸Z̸K̸E̸N̸Y̸A̸',
 
@@ -10,7 +10,7 @@ Botprefix: process.env.PREFIX || '.',
   
 ownerNumber: process.env.OWNER_NUMBER || '254758443111',
   
-commandMode: process.env.COMMAND_MODE || "private",
+commandMode: process.env.COMMAND_MODE || "public",
    
 description: process.env.BOT_DESCRIPTION || "This is a bot for managing group commands and automating tasks.",
   
